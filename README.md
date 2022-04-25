@@ -1,5 +1,10 @@
 # Bootstrap | Medium Homepage Clone
 
+## :email: Contact
+ [Linkedin](https://www.linkedin.com/in/fatma-gülmez ) <br>
+  Gmail: **ffatma.glmz@gmail.com**
+  
+
 ## First Page
 
 ![Ss1](https://user-images.githubusercontent.com/93269500/147761507-1409b66b-1587-4b98-831d-aef77c5ff076.png)
